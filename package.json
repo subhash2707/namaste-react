@@ -1,0 +1,35 @@
+{
+  "name": "react_js",
+  "version": "1.0.0",
+  "description": "This is namaste react by Akshay saini",
+  "scripts": {
+    "start": "parcel serve index.html --hmr-port 1234",
+    "build": " parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subhash2707/namaste-react.git"
+  },
+  "keywords": [],
+  "author": "Subhash Chandra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subhash2707/namaste-react/issues"
+  },
+  "homepage": "https://github.com/subhash2707/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "node-fetch": "^3.3.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browserslist": [
+    "last 2 chrome versions"
+  ]
+}
