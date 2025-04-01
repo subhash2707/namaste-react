@@ -110,5 +110,6 @@ const fetchData = async () => {
 
 //console.log("Total Restaurants:", resList.length);
 
-console.log("he");
+console.log("heloo");
+
 export default Body;
